@@ -1,0 +1,5 @@
+{
+    "require": {
+        "Bruno/mpesa-php-sdk": "^1.3"
+    }
+}
